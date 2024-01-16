@@ -1,0 +1,8 @@
+set_property PACKAGE_PIN A2 [get_ports {bcd[3]}]
+set_property PACKAGE_PIN A3 [get_ports {bcd[2]}]
+set_property PACKAGE_PIN A8 [get_ports {bcd[1]}]
+set_property PACKAGE_PIN A10 [get_ports {bcd[0]}]
+set_property PACKAGE_PIN B1 [get_ports {remainder_three[3]}]
+set_property PACKAGE_PIN B2 [get_ports {remainder_three[2]}]
+set_property PACKAGE_PIN B4 [get_ports {remainder_three[1]}]
+set_property PACKAGE_PIN C1 [get_ports {remainder_three[0]}]
